@@ -35,21 +35,3 @@ $inbox.items | select -first 10 | foreach {
 
 
 
-#Body
-#TaskSubject                       : RE: BMC Monitoring for ORCA Virtuals
-#SenderEmailAddress
-#SenderName                        : Kato, Stephen N
-#Sent                              : True
-#SentOn                            : 2/14/2013 3:28:46 PM
-#SentOnBehalfOfName                : Kato, Stephen N
-#ReceivedByName                    : Park, Yong K
-#ReceivedTime                      : 2/14/2013 3:28:47 PM
-#HTMLBody
-#Sensitivity                       : 0
-#Size                              : 17502
-#Subject                           : RE: BMC Monitoring for ORCA Virtuals 
-#UnRead                            : False
-#BCC                               : 
-#CC                                : Civarra, Larry
-#ConversationTopic                 : BMC Monitoring for ORCA Virtuals 
-#CreationTime                      : 2/14/2013 3:28:47 PM
